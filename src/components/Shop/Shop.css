@@ -9,3 +9,12 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.cart-container{
+    background: url(/src/images/harindranath-reddy-k-j-G2s9j5qAUEI-unsplash.jpg), #1C2B35;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    color: white;
+    position: sticky;
+    top: 0;
+}
