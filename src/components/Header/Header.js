@@ -7,7 +7,7 @@ const Header = () => {
            <div className='Header-Details'>
                 <h6>Sale up to 70% off</h6>
                 <h1>New Collection For Fall</h1>
-                <p>Discover all the new arrivals of ready-to-wear collection.</p>
+                <p>Discover all the new arrivals of ready-to-gather collection.</p>
                 <button>SHOP NOW</button>
            </div>
            <div className='Header-img'>
