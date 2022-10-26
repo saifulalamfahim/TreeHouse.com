@@ -4,7 +4,8 @@ import "./Inventory.css";
 const Inventory = () => {
     return (
         <div>
-            <h1>This is Inventory h aha ha ha aha</h1>
+            <h4>Inventory Page</h4>
+            <h1>Under The Developer( Coming Very Soon )</h1>
         </div>
     );
 };

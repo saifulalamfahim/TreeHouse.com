@@ -3,8 +3,9 @@ import "./About.css";
 
 const About = () => {
     return (
-        <div>
-            <h1>This is About Section Ja ja aj aj a j</h1>
+        <div> 
+            <h4>About Page</h4>
+             <h1>Under The Developer( Coming Very Soon )</h1>
         </div>
     );
 };

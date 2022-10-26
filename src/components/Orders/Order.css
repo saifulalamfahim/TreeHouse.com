@@ -1,0 +1,8 @@
+.order-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    color: green;
+}
+.ProccesCheckout-button{
+    font-size: 20px;
+}

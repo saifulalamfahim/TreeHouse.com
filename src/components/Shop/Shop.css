@@ -18,3 +18,11 @@
     position: sticky;
     top: 0;
 }
+.Clear-Cart-button{
+        font-size: 20px;
+}
+.ReviewOrder-button{
+    margin-top: 20px;
+    background-color: white;
+    font-size: 20px;
+}
